@@ -10,7 +10,9 @@ Criei um site de apresentação pessoal com cabeçalho, rodapé e uma seção de
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--React
--React-bootstrap
--Animate.css
+- React
+  
+- React-bootstrap
+  
+- Animate.css
 
