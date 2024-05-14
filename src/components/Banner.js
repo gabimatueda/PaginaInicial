@@ -55,18 +55,18 @@ export const Banner = () => {
             {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                
-                <h1 className="">{`Hi! I'm Bruna `} <br></br>
+                <h1 className="">{`Olá! Sou a Gabriela Mayumi `} <br></br>
                   <span className="txt-rotate" dataPeriod="1000" data-rotate='["Frontend Developer"]'>
                     <span className="wrap">{text}</span>
                   </span>
                 </h1>
 
                 <p className="">
-                I'm a student of Information Systems and Computer Science with a passion for front-end development. I enjoy blending my expertise in design and programming to craft immersive user experiences.
+                Sou uma estudante de Engenharia de Software e apaixonada por desenvolvimento front-end. Gosto de combinar minha experiência em design e programação para criar experiências de usuário envolventes.
                 </p>
 
                 <button onClick={() => console.log('connect')}>
-                  My GitHub <a href="https://www.github.com/brunarcedro" target="_blank" rel="noopener noreferrer"><ArrowRightCircle size={25} color="white"/></a>
+                  Meu GitHub <a href="https://github.com/gabimatueda" target="_blank" rel="noopener noreferrer"><ArrowRightCircle size={25} color="white"/></a>
               </button>
               
               </div>}

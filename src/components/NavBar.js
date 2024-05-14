@@ -49,14 +49,14 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/brunarcedro/"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.linkedin.com/in/gabi-mayumi/"><img src={navIcon1} alt="" /></a>
                 <a href="#"><img src={navIcon2} alt="" /></a>
-                <a href="https://www.instagram.com/brucodes/"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.instagram.com/gabimatueda/"><img src={navIcon3} alt="" /></a>
               </div>
              
               <button className="vvd">
                 <a 
-                  href="https://www.linkedin.com/in/brunarcedro/" 
+                  href="https://www.linkedin.com/in/gabi-mayumi/" 
                   target="_blank" 
                   style={{ textDecoration: 'none', color: 'inherit' }}
                 >
